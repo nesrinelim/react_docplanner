@@ -1,0 +1,25 @@
+.box_{
+    width: 40%;
+    border-radius: 7px;
+    background: white;
+    margin-left: 4%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    padding: 4%;
+    text-align: center;
+}
+ /* h2{
+    color: #00b39b;
+} */
+.th2{
+    color: #00b39b;
+}
+.tp{
+    color: #747474;
+}
+@media screen and (max-width:768px){
+    .th2{
+        font-size: 1.5rem;
+    }
+    
+}

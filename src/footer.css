@@ -1,0 +1,13 @@
+.ftr{
+    /* text-align: center; */
+    font-size: 13px;
+    color: #ababab;
+    margin-left: 9%;
+    margin-right: 9%;
+}
+
+.ref{
+    color: #007bff;
+    text-decoration: none;
+    margin-bottom: -3%;
+}

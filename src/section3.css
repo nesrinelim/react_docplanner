@@ -1,0 +1,29 @@
+.sec3{
+    background-image: url('../src/background.png');
+    background-repeat: no-repeat;
+    display: flex;
+    
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.text{
+    margin-left: 9%;
+    width: 100%;
+    text-align: start;
+}
+.text h5{
+    color: #747474;
+}
+.titr{
+     color: #00b39b;
+}
+@media screen and (max-width:768px){
+    .sec3{
+        display: block;
+        width: 100vw;
+    }
+    
+}

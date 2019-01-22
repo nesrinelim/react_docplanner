@@ -1,0 +1,25 @@
+.box{
+    border-radius: 17px;
+    text-align: start;
+    padding: 3%;
+    color: white;
+    overflow: hidden;
+    
+    
+}
+.tex{
+    color: #747474;
+    font-size: 18px;
+    margin-top: 5%;
+    margin-bottom: 9%;
+    text-align: start;
+}
+.image{
+    margin-left: 57%;
+    margin-top: 2%;
+}
+.list_i{
+    color: black;
+    border-radius: 4px;
+    height: 5vh;
+}
